@@ -1,7 +1,7 @@
 # UOC. Master en Ciència de Dades. Visualització de Dades
 ## PAC3. La Catalunya Petita (2022)
 
-### Context del projecte
+## Context del projecte
 PAC3 de l’assignatura de Visualització de Dades del Màster en Ciència de Dades de la UOC, en la que es demana als alumnes la creació d’una visualització narrativa de temàtica lliure.
 
 Vaig triar l’anàlisi de l’evolució de la població entre els anys 1975 i 2022 del que vaig considerar la Catalunya "petita", és a dir, municipis de menys de 3000 habitants, amb la intenció de validar dues hipòtesis a partir de les visualitzacions adients de les dades:
@@ -17,14 +17,14 @@ Durant el desenvolupament de l’activitat vaig plantejar una tercera hipòtesi.
 
 El treball inclòs en aquest projecte inclou, bàsicament, el procés de neteja i adequació de les dades amb llenguatge R per tal de crear les visualitzacions desitjades amb l’eina Flourish. [Enllaç al projecte](https://public.flourish.studio/story/1789298/)
 
-#### Reptes
+### Reptes
 
 Un dels reptes més importants per a aquest projecte és la representació d’informació geogràfica en mapes. D'altra banda també s'ha hagut de gestionar l'agrupació de dades de diferents fonts, així com salvar la diferència de dates per les dades disponibles. En aquest darrer cas, s'han considerat del mateix dia dades del 31-12-2019 i del 01-01-2020.
 
-#### Fonts de dades
+### Fonts de dades
 Tots els datasets que s'han fet servir en aquest projecte s'han obtingut de fonts de dades obertes.
 
-### Conclusions principals
+## Conclusions principals
 
 * El nombre d'habitants en municipis de menys de 3000 habitants decreix en 60000 persones malgrat l'augment notable de població en el global de Catalunya.
 * El nombre de municipis de menys de 3000 habitants també decreix, al 2020 n'hi ha 90 menys. El descens de població és menys acusat del que caldria esperar.
@@ -38,7 +38,7 @@ Respecte els efectes de la pandèmia de COVID-19, al període 2020-2022
 
 * S'observen variacions petites de població, no són xifres que permetin concloure un trasvassament clar de població, tot i que sí que es veu una tendència de disminució als grans nuclis i d'augment a municipis de muntanya.
 
-### Descripció dels fitxers R
+## Descripció dels fitxers R
 
 **habitants.R**
 Variació del nombre d’habitants als períodes 1975-2020 i 2020-2022. Escriptura dels resultats a dos fitxers csv amb la informació processada.
