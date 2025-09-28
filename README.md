@@ -24,6 +24,9 @@ Un dels reptes més importants per a aquest projecte és la representació d’i
 ### Fonts de dades
 Tots els datasets que s'han fet servir en aquest projecte s'han obtingut de fonts de dades obertes.
 
+## Visualitzacions presentades
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.*
+
 ## Conclusions principals
 
 * El nombre d'habitants en municipis de menys de 3000 habitants decreix en 60000 persones malgrat l'augment notable de població en el global de Catalunya.
