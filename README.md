@@ -1,5 +1,5 @@
 # UOC. Master en Ciència de Dades. Visualització de Dades
-## PAC3. La Catalunya Petita (2022)
+### *PAC3. La Catalunya Petita (2022)*
 
 ## Context del projecte
 PAC3 de l’assignatura de Visualització de Dades del Màster en Ciència de Dades de la UOC, en la que es demana als alumnes la creació d’una visualització narrativa de temàtica lliure.
